@@ -15,9 +15,9 @@ const Body = () => {
         autoplaySpeed: 200
     };
     const instructions = [
-        "The Mukku Teams Malikaparamba website will be available only after 12/02/2025.",
-        "The Mukku Teams Malikaparamba website will be available only after 12/02/2025.",
-        "The Mukku Teams Malikaparamba website will be available only after 12/02/2025.",
+        "The website will be available only after 12/02/2025.",
+        "The website will be available only after 12/02/2025.",
+        "The website will be available only after 12/02/2025.",
     ];
   return (
     <div className="">
