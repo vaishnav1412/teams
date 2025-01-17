@@ -4,7 +4,7 @@ import logo from "../../assets/Gemini_Generated_Image_1gm6l31gm6l31gm6 (1).jpg"
 const Navbar = () => {
   return (
     <div>
-      <header class="mb-2 px-4 shadow">
+      <header class="mb-2 bg-white shadow">
   <div class="relative mx-auto flex max-w-screen-lg flex-col py-4 sm:flex-row sm:items-center sm:justify-between">
     <a class="flex items-center text-2xl font-black" href="/">
       <span class="mr-2 text-3xl text-blue-600">
