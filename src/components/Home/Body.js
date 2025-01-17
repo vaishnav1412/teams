@@ -29,7 +29,7 @@ const Body = () => {
                     </div>
                 ))}
             </Slider>
-      <div className="p-5 mx-auto sm:p-10 md:p-16 dark:bg-gray-200 dark:text-gray-800">
+      <div className="p-5 mx-auto sm:p-10 md:p-16 bg-gray-200 text-gray-800">
         <div className="flex flex-col max-w-3xl mx-auto overflow-hidden rounded">
           <img
             src="https://png.pngtree.com/thumb_back/fh260/background/20230315/pngtree-dancing-people-colorful-abstract-background-image_1948409.jpg"

@@ -9,7 +9,7 @@ const Home = () => {
 	<div className="container flex flex-col justify-between py-10 mx-auto space-y-8 lg:flex-row lg:space-y-0">
 		<div className="lg:w-1/3">
 			<a rel="noopener noreferrer" href="#" className="flex justify-center space-x-3 lg:justify-start">
-				<div className="flex items-center justify-center w-12 h-12 rounded-full dark:bg-violet-600">
+				<div className="flex items-center justify-center w-12 h-12 rounded-full bg-violet-600">
 					<img className='rounded-full' src={logo} />
 				</div>
 				<span className="self-center text-2xl font-bold">MUKKU TEAMS<br/><div className='text-xs text-green-600'>MALIKAPARAMBA</div></span>
@@ -81,8 +81,8 @@ const Home = () => {
 		</div>
 	</div>
    <div>
-   <div className="pt-4  text-sm text-center dark:text-gray-600">© Mukku Teams Malikaparamba. All rights reserved.</div>
-   <div className="pb-4 pt-1 text-xs text-center dark:text-violet-300">Developed By Vaishnav V M  Malikapramba</div>
+   <div className="pt-4  text-sm text-center text-gray-600">© Mukku Teams Malikaparamba. All rights reserved.</div>
+   <div className="pb-4 pt-1 text-xs text-center text-violet-300">Developed By Vaishnav V M  Malikapramba</div>
    </div>
 	
 </footer>
